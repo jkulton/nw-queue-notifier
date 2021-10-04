@@ -4,6 +4,9 @@ Script for notifying [New World](https://www.newworld.com/) queue position.
 
 This script is intended to be run while waiting in a queue. It will take a screenshot of the screen, OCR the queue position from the screenshot, and then send a [Pushover](https://pushover.net/) notification on regular interval.
 
+<img width=500 src="https://user-images.githubusercontent.com/6694167/135780134-cd3c951f-0c6b-486d-8e38-e9b2855f0a92.jpg" />
+
+
 Note: This is a simple and brute force script, YMMV.
 
 ## Basic Usage
