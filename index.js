@@ -1,4 +1,3 @@
-// OCR
 const { createWorker } = require('tesseract.js');
 const screenshot = require('screenshot-desktop');
 const config = require('./config');
