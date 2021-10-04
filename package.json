@@ -1,0 +1,17 @@
+{
+  "name": "nw-queue-notifier",
+  "version": "1.0.0",
+  "description": "Script for notifying New World queue position.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "github.com/jkulton",
+  "license": "MIT",
+  "dependencies": {
+    "screenshot-desktop": "^1.12.7",
+    "tesseract.js": "^2.1.5",
+    "chump": "^1.2.0",
+    "jimp": "^0.16.1"
+  }
+}

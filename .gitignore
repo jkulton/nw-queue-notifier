@@ -1,0 +1,4 @@
+config.js
+*.png
+*.traineddata
+node_modules
